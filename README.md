@@ -45,29 +45,23 @@ Completed as university coursework using a fictional business scenario and reorg
 
 ## Process Diagrams
 
-### Current State to Future State
-
-![Current State to Future State](process-maps/current-to-future-state.png)
-
-*Portfolio diagram showing how the case moves from disconnected spreadsheets and standalone systems toward an integrated Odoo ERP environment.*
-
-### Order-to-Cash Process
-
-![Order-to-Cash Process](process-maps/order-to-cash.png)
-
-*End-to-end flow from customer requirements and quotation through deposit, manufacturing, delivery, final invoicing and payment.*
-
-### Procurement Workflow
-
-![Procurement Workflow](process-maps/procurement-workflow.png)
-
-*Procurement process for non-stock materials, including multi-supplier RFQs, comparison, approval controls and goods receipt.*
-
 ### Manufacturing & BOM Workflow
 
-![Manufacturing and BOM Workflow](process-maps/manufacturing-workflow.png)
+![Manufacturing and BOM Workflow](process-maps/erp-manufacturing-bom.png)
 
-*Flow from confirmed sales order through make-to-order manufacturing, BOM selection, production and finished goods.*
+*Shows the manufacturing process from confirmed sales order through Make-to-Order (MTO), BOM selection, manufacturing, production, and finished product.*
+
+### End-to-End Order-to-Cash Process
+
+![End-to-End Order-to-Cash Process](process-maps/erp-order-to-cash.png)
+
+*Shows the integrated customer journey from requirements and quotation through deposit, manufacturing, delivery, invoicing, and final payment.*
+
+### Procurement Workflow for Non-Stock Materials
+
+![Procurement Workflow for Non-Stock Materials](process-maps/erp-procurement-non-stock.png)
+
+*Shows the procurement process from identifying a material requirement through supplier RFQs, quotation comparison, approval, purchase order, and goods receipt.*
 
 ## Requirements Traceability
 
